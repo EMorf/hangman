@@ -1,3 +1,4 @@
+#python3
 from random      import randint
 from sys         import argv
 from random_word import RandomWords
